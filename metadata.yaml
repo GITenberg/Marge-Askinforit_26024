@@ -1,0 +1,28 @@
+_repo: Marge-Askinforit_26024
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26024-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Pain, Barry
+    alias: Pain, Barry Eric Odell
+    birthdate: 1864
+    deathdate: 1928
+    gutenberg_agent_id: '26030'
+    url: http://www.gutenberg.org/2009/agents/26030
+    wikipedia: http://en.wikipedia.org/wiki/Barry_Pain
+description: ''
+gutenberg_issued: '2008-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asquith, Margot, 1864-1945'
+- !lcc 'PR'
+title: Marge Askinforit
+url: http://www.gutenberg.org/ebooks/26024
